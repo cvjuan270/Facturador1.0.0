@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{78471C27-95E2-4A11-A06E-B006397727EE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FormBase1</RootNamespace>
+    <AssemblyName>FormBase1</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Conexion.cs" />
+    <Compile Include="ElogFormBase.cs" />
+    <Compile Include="FormBaseBusArt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBaseBusArt.Designer.cs">
+      <DependentUpon>FormBaseBusArt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBaseBusc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBaseBusc.Designer.cs">
+      <DependentUpon>FormBaseBusc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formBaseMark.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formBaseMark.Designer.cs">
+      <DependentUpon>formBaseMark.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCalculadora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCalculadora.Designer.cs">
+      <DependentUpon>FormCalculadora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCalendario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCalendario.Designer.cs">
+      <DependentUpon>FormCalendario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Settings1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings1.settings</DependentUpon>
+    </Compile>
+    <Compile Include="ValidaEntradaDato.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FormBaseBusArt.resx">
+      <DependentUpon>FormBaseBusArt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBaseBusc.resx">
+      <DependentUpon>FormBaseBusc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formBaseMark.resx">
+      <DependentUpon>formBaseMark.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCalendario.resx">
+      <DependentUpon>FormCalendario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TextBoxButtonControl\TextBoxButtonControl.csproj">
+      <Project>{867aa4b7-0bcc-4b0d-8d7e-21ed366d7a0e}</Project>
+      <Name>TextBoxButtonControl</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Settings1.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings1.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ellipsis.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

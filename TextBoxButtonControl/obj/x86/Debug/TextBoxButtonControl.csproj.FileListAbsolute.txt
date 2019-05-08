@@ -1,0 +1,7 @@
+G:\Facturador Segurimax\Facturador1.0.0\TextBoxButtonControl\bin\x86\Debug\TextBoxButtonControl.dll
+G:\Facturador Segurimax\Facturador1.0.0\TextBoxButtonControl\bin\x86\Debug\TextBoxButtonControl.pdb
+G:\Facturador Segurimax\Facturador1.0.0\TextBoxButtonControl\obj\x86\Debug\TextBoxButtonControl.Properties.Resources.resources
+G:\Facturador Segurimax\Facturador1.0.0\TextBoxButtonControl\obj\x86\Debug\TextBoxButtonControl.csproj.GenerateResource.Cache
+G:\Facturador Segurimax\Facturador1.0.0\TextBoxButtonControl\obj\x86\Debug\TextBoxButtonControl.csproj.CoreCompileInputs.cache
+G:\Facturador Segurimax\Facturador1.0.0\TextBoxButtonControl\obj\x86\Debug\TextBoxButtonControl.dll
+G:\Facturador Segurimax\Facturador1.0.0\TextBoxButtonControl\obj\x86\Debug\TextBoxButtonControl.pdb

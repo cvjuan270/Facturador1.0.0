@@ -1,0 +1,78 @@
+Facturador1._0._0.Forms.FormEntreg 01:10:03
+dataGridView1_CellEndEdit - Referencia a objeto no establecida como instancia de un objeto.
+
+Facturador1._0._0.Forms.FormEntreg 19:55:18
+.ctor - Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Proveedor de canalizaciones con nombre, error: 40 - No se pudo abrir una conexión con SQL Server)
+
+Facturador1._0._0.Forms.FormEntreg 21:00:31
+dataGridView1_CellEndEdit - Referencia a objeto no establecida como instancia de un objeto.
+
+Facturador1._0._0.Forms.FormEntreg 21:26:11
+dataGridView1_CellEndEdit - Referencia a objeto no establecida como instancia de un objeto.
+
+Facturador1._0._0.Forms.FormEntreg 21:26:56
+dataGridView1_CellEndEdit - Referencia a objeto no establecida como instancia de un objeto.
+
+Facturador1._0._0.Forms.FormEntreg 21:44:14
+dataGridView1_CellEndEdit - Referencia a objeto no establecida como instancia de un objeto.
+
+Facturador1._0._0.Forms.FormEntreg 22:16:35
+dataGridView1_CellEndEdit - Referencia a objeto no establecida como instancia de un objeto.
+
+Facturador1._0._0.Forms.FormEntreg 22:17:16
+dataGridView1_CellEndEdit - Referencia a objeto no establecida como instancia de un objeto.
+
+Facturador1._0._0.Forms.FormEntreg 22:18:10
+dataGridView1_CellEndEdit - Referencia a objeto no establecida como instancia de un objeto.
+
+Facturador1._0._0.Forms.FormEntreg 09:33:26
+dataGridView1_CellEndEdit - Referencia a objeto no establecida como instancia de un objeto.
+
+Facturador1._0._0.Forms.FormFactur 10:36:39
+dataGridView1_CellEndEdit - Referencia a objeto no establecida como instancia de un objeto.
+
+Facturador1._0._0.Forms.FormFactur 11:28:41
+dataGridView1_CellEndEdit - Referencia a objeto no establecida como instancia de un objeto.
+
+Facturador1._0._0.Forms.FormFactur 22:27:52
+.ctor - Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Proveedor de canalizaciones con nombre, error: 40 - No se pudo abrir una conexión con SQL Server)
+
+Facturador1._0._0.Forms.FormFactur 17:17:29
+dataGridView1_CellEndEdit - Referencia a objeto no establecida como instancia de un objeto.
+
+Facturador1._0._0.Forms.FormFactur 14:34:58
+dataGridView1_CellEndEdit - La cadena de entrada no tiene el formato correcto.
+
+Facturador1._0._0.Forms.FormFactur 14:35:02
+dataGridView1_CellEndEdit - La cadena de entrada no tiene el formato correcto.
+
+Facturador1._0._0.Forms.FormFactur 14:35:09
+dataGridView1_CellEndEdit - La cadena de entrada no tiene el formato correcto.
+
+Facturador1._0._0.Forms.FormFactur 14:35:14
+dataGridView1_CellEndEdit - La cadena de entrada no tiene el formato correcto.
+
+Facturador1._0._0.Forms.FormFactur 14:36:05
+dataGridView1_CellEndEdit - La cadena de entrada no tiene el formato correcto.
+
+Facturador1._0._0.Forms.FormFactur 14:36:13
+dataGridView1_CellEndEdit - La cadena de entrada no tiene el formato correcto.
+
+Facturador1._0._0.Forms.FormFactur 14:36:16
+dataGridView1_CellEndEdit - La cadena de entrada no tiene el formato correcto.
+
+Facturador1._0._0.Forms.FormFactur 14:36:18
+dataGridView1_CellEndEdit - La cadena de entrada no tiene el formato correcto.
+
+Facturador1._0._0.Forms.FormFactur 16:16:34
+dataGridView1_CellEndEdit - El nombre de objeto 'ACCLI1' no es válido.
+
+Facturador1._0._0.Forms.FormFactur 16:16:59
+dataGridView1_CellEndEdit - El nombre de objeto 'ACCLI1' no es válido.
+
+Facturador1._0._0.Forms.FormFactur 16:19:36
+dataGridView1_CellEndEdit - El nombre de objeto 'ACCLI1' no es válido.
+
+Facturador1._0._0.Forms.FormFactur 16:19:42
+dataGridView1_CellEndEdit - Referencia a objeto no establecida como instancia de un objeto.
+

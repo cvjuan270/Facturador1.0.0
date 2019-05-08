@@ -1,0 +1,15 @@
+G:\Facturador Segurimax\Facturador1.0.0\FormBase1\bin\x86\Debug\FormBase1.dll.config
+G:\Facturador Segurimax\Facturador1.0.0\FormBase1\bin\x86\Debug\FormBase1.dll
+G:\Facturador Segurimax\Facturador1.0.0\FormBase1\bin\x86\Debug\FormBase1.pdb
+G:\Facturador Segurimax\Facturador1.0.0\FormBase1\bin\x86\Debug\TextBoxButtonControl.dll
+G:\Facturador Segurimax\Facturador1.0.0\FormBase1\bin\x86\Debug\TextBoxButtonControl.pdb
+G:\Facturador Segurimax\Facturador1.0.0\FormBase1\obj\x86\Debug\FormBase1.csprojResolveAssemblyReference.cache
+G:\Facturador Segurimax\Facturador1.0.0\FormBase1\obj\x86\Debug\FormBase1.FormBaseBusArt.resources
+G:\Facturador Segurimax\Facturador1.0.0\FormBase1\obj\x86\Debug\FormBase1.FormBaseBusc.resources
+G:\Facturador Segurimax\Facturador1.0.0\FormBase1\obj\x86\Debug\FormBase1.formBaseMark.resources
+G:\Facturador Segurimax\Facturador1.0.0\FormBase1\obj\x86\Debug\FormBase1.FormCalendario.resources
+G:\Facturador Segurimax\Facturador1.0.0\FormBase1\obj\x86\Debug\FormBase1.Properties.Resources.resources
+G:\Facturador Segurimax\Facturador1.0.0\FormBase1\obj\x86\Debug\FormBase1.csproj.GenerateResource.Cache
+G:\Facturador Segurimax\Facturador1.0.0\FormBase1\obj\x86\Debug\FormBase1.csproj.CoreCompileInputs.cache
+G:\Facturador Segurimax\Facturador1.0.0\FormBase1\obj\x86\Debug\FormBase1.dll
+G:\Facturador Segurimax\Facturador1.0.0\FormBase1\obj\x86\Debug\FormBase1.pdb

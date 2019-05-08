@@ -1,0 +1,6 @@
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Funciones\bin\Debug\Funciones.dll
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Funciones\bin\Debug\Funciones.pdb
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Funciones\obj\Debug\Funciones.csprojResolveAssemblyReference.cache
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Funciones\obj\Debug\Funciones.csproj.CoreCompileInputs.cache
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Funciones\obj\Debug\Funciones.dll
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Funciones\obj\Debug\Funciones.pdb

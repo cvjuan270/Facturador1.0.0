@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Facturador1._0._0" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="Cade_Conexion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">data source = WIN-N0KOJNSL9KV; initial catalog = FACTURADOR01; user id = sa; password = Dv123456789</Value>
+    </Setting>
+    <Setting Name="RutaSFS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://RBSEGURIDAD-PC:9000/</Value>
+    </Setting>
+    <Setting Name="DirectorioDATA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\RBSEGURIDAD-PC\SFS_v1.2\sunat_archivos\sfs\DATA\</Value>
+    </Setting>
+    <Setting Name="RUC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20558326256</Value>
+    </Setting>
+    <Setting Name="SerieFactura" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F001</Value>
+    </Setting>
+    <Setting Name="DirectorioREPO" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\RBSEGURIDAD-PC\SFS_v1.2\sunat_archivos\sfs\REPO\</Value>
+    </Setting>
+    <Setting Name="NombreIMPRESORA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Microsoft Print to PDF</Value>
+    </Setting>
+    <Setting Name="Correo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">segurimax_80@hotmail.com</Value>
+    </Setting>
+    <Setting Name="PassCorreo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">j21np33l</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

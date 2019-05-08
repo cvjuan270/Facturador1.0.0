@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FormBase1" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="Cade_Conexion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">data source = WIN-N0KOJNSL9KV; initial catalog = FACTURADOR01; user id = sa; password = Dv123456789</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,81 @@
+C:\Users\Juan\Source\Repos\NewRepo\Facturador1.0.0\Facturador1.0.0\bin\Debug\Facturador1.0.0.exe.config
+C:\Users\Juan\Source\Repos\NewRepo\Facturador1.0.0\Facturador1.0.0\bin\Debug\Facturador1.0.0.exe.manifest
+C:\Users\Juan\Source\Repos\NewRepo\Facturador1.0.0\Facturador1.0.0\bin\Debug\Facturador1.0.0.application
+C:\Users\Juan\Source\Repos\NewRepo\Facturador1.0.0\Facturador1.0.0\bin\Debug\Facturador1.0.0.exe
+C:\Users\Juan\Source\Repos\NewRepo\Facturador1.0.0\Facturador1.0.0\bin\Debug\Facturador1.0.0.pdb
+C:\Users\Juan\Source\Repos\NewRepo\Facturador1.0.0\Facturador1.0.0\bin\Debug\FormBase1.dll
+C:\Users\Juan\Source\Repos\NewRepo\Facturador1.0.0\Facturador1.0.0\bin\Debug\TextBoxButtonControl.dll
+C:\Users\Juan\Source\Repos\NewRepo\Facturador1.0.0\Facturador1.0.0\bin\Debug\TextBoxButtonControl.pdb
+C:\Users\Juan\Source\Repos\NewRepo\Facturador1.0.0\Facturador1.0.0\bin\Debug\FormBase1.pdb
+C:\Users\Juan\Source\Repos\NewRepo\Facturador1.0.0\Facturador1.0.0\bin\Debug\FormBase1.dll.config
+C:\Users\Juan\Source\Repos\NewRepo\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1.0.0.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Source\Repos\NewRepo\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.Forms.BusCod.resources
+C:\Users\Juan\Source\Repos\NewRepo\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.Forms.FormDatoMaesArti.resources
+C:\Users\Juan\Source\Repos\NewRepo\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.Forms.FormDatoMaesSN.resources
+C:\Users\Juan\Source\Repos\NewRepo\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.Forms.FormEntreg.resources
+C:\Users\Juan\Source\Repos\NewRepo\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.Forms.FormOfeVen.resources
+C:\Users\Juan\Source\Repos\NewRepo\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.MDIParent1.resources
+C:\Users\Juan\Source\Repos\NewRepo\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.MDIParent2.resources
+C:\Users\Juan\Source\Repos\NewRepo\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.Properties.Resources.resources
+C:\Users\Juan\Source\Repos\NewRepo\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1.0.0.csproj.GenerateResource.Cache
+C:\Users\Juan\Source\Repos\NewRepo\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1.0.0.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Source\Repos\NewRepo\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1.0.0.exe.manifest
+C:\Users\Juan\Source\Repos\NewRepo\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1.0.0.application
+C:\Users\Juan\Source\Repos\NewRepo\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1.0.0.exe
+C:\Users\Juan\Source\Repos\NewRepo\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1.0.0.pdb
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1.0.0.csprojResolveAssemblyReference.cache
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.Forms.BusCod.resources
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.Forms.FormDatoMaesArti.resources
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.Forms.FormDatoMaesSN.resources
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.Forms.FormEntreg.resources
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.Forms.FormFactur.resources
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.Forms.FormNavFacSun.resources
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.Forms.FormOfeVen.resources
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.MDIParent1.resources
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.MDIParent2.resources
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.Properties.Resources.resources
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1.0.0.csproj.GenerateResource.Cache
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1.0.0.csproj.CoreCompileInputs.cache
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Facturador1.0.0\bin\Debug\Facturador1.0.0.exe.config
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Facturador1.0.0\bin\Debug\Facturador1.0.0.exe.manifest
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Facturador1.0.0\bin\Debug\Facturador1.0.0.application
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Facturador1.0.0\bin\Debug\Facturador1.0.0.exe
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Facturador1.0.0\bin\Debug\Facturador1.0.0.pdb
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Facturador1.0.0\bin\Debug\FormBase1.dll
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Facturador1.0.0\bin\Debug\TextBoxButtonControl.dll
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Facturador1.0.0\bin\Debug\TextBoxButtonControl.pdb
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Facturador1.0.0\bin\Debug\FormBase1.pdb
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Facturador1.0.0\bin\Debug\FormBase1.dll.config
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1.0.0.exe.manifest
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1.0.0.application
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1.0.0.exe
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1.0.0.pdb
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.Forms.FormEnvCor.resources
+G:\Facturador Segurimax\Facturador1.0.0\Facturador1.0.0\bin\Debug\Facturador1.0.0.exe.config
+G:\Facturador Segurimax\Facturador1.0.0\Facturador1.0.0\bin\Debug\Facturador1.0.0.exe.manifest
+G:\Facturador Segurimax\Facturador1.0.0\Facturador1.0.0\bin\Debug\Facturador1.0.0.application
+G:\Facturador Segurimax\Facturador1.0.0\Facturador1.0.0\bin\Debug\Facturador1.0.0.exe
+G:\Facturador Segurimax\Facturador1.0.0\Facturador1.0.0\bin\Debug\Facturador1.0.0.pdb
+G:\Facturador Segurimax\Facturador1.0.0\Facturador1.0.0\bin\Debug\FormBase1.dll
+G:\Facturador Segurimax\Facturador1.0.0\Facturador1.0.0\bin\Debug\TextBoxButtonControl.dll
+G:\Facturador Segurimax\Facturador1.0.0\Facturador1.0.0\bin\Debug\TextBoxButtonControl.pdb
+G:\Facturador Segurimax\Facturador1.0.0\Facturador1.0.0\bin\Debug\FormBase1.pdb
+G:\Facturador Segurimax\Facturador1.0.0\Facturador1.0.0\bin\Debug\FormBase1.dll.config
+G:\Facturador Segurimax\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1.0.0.csprojResolveAssemblyReference.cache
+G:\Facturador Segurimax\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.Forms.BusCod.resources
+G:\Facturador Segurimax\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.Forms.FormDatoMaesArti.resources
+G:\Facturador Segurimax\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.Forms.FormDatoMaesSN.resources
+G:\Facturador Segurimax\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.Forms.FormEntreg.resources
+G:\Facturador Segurimax\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.Forms.FormEnvCor.resources
+G:\Facturador Segurimax\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.Forms.FormFactur.resources
+G:\Facturador Segurimax\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.Forms.FormNavFacSun.resources
+G:\Facturador Segurimax\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.Forms.FormOfeVen.resources
+G:\Facturador Segurimax\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.MDIParent1.resources
+G:\Facturador Segurimax\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.MDIParent2.resources
+G:\Facturador Segurimax\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1._0._0.Properties.Resources.resources
+G:\Facturador Segurimax\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1.0.0.csproj.GenerateResource.Cache
+G:\Facturador Segurimax\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1.0.0.csproj.CoreCompileInputs.cache
+G:\Facturador Segurimax\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1.0.0.exe.manifest
+G:\Facturador Segurimax\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1.0.0.application
+G:\Facturador Segurimax\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1.0.0.exe
+G:\Facturador Segurimax\Facturador1.0.0\Facturador1.0.0\obj\Debug\Facturador1.0.0.pdb

@@ -1,0 +1,6 @@
+G:\Facturador Segurimax\Facturador1.0.0\Funciones\bin\x86\Debug\Funciones.dll
+G:\Facturador Segurimax\Facturador1.0.0\Funciones\bin\x86\Debug\Funciones.pdb
+G:\Facturador Segurimax\Facturador1.0.0\Funciones\obj\x86\Debug\Funciones.csprojResolveAssemblyReference.cache
+G:\Facturador Segurimax\Facturador1.0.0\Funciones\obj\x86\Debug\Funciones.csproj.CoreCompileInputs.cache
+G:\Facturador Segurimax\Facturador1.0.0\Funciones\obj\x86\Debug\Funciones.dll
+G:\Facturador Segurimax\Facturador1.0.0\Funciones\obj\x86\Debug\Funciones.pdb

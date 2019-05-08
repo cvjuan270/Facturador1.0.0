@@ -1,0 +1,8 @@
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\TextBoxButtonControl\bin\Debug\TextBoxButtonControl.dll
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\TextBoxButtonControl\bin\Debug\TextBoxButtonControl.pdb
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\TextBoxButtonControl\obj\Debug\TextBoxButtonControl.Properties.Resources.resources
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\TextBoxButtonControl\obj\Debug\TextBoxButtonControl.csproj.GenerateResource.Cache
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\TextBoxButtonControl\obj\Debug\TextBoxButtonControl.csproj.CoreCompileInputs.cache
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\TextBoxButtonControl\obj\Debug\TextBoxButtonControl.dll
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\TextBoxButtonControl\obj\Debug\TextBoxButtonControl.pdb
+E:\DOCUMENTOS\DESARROLLO\C#\WF\Facturador1.0.0\TextBoxButtonControl\obj\Debug\TextBoxButtonControl.csprojResolveAssemblyReference.cache
