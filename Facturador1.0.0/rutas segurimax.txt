@@ -1,0 +1,3 @@
+\\RBSEGURIDAD-PC\SFS_v1.2\sunat_archivos\sfs\DATA\
+\\RBSEGURIDAD-PC\SFS_v1.2\sunat_archivos\sfs\REPO\
+http://RBSEGURIDAD-PC:9000/

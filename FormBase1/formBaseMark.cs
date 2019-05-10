@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Windows.Forms;
 
@@ -24,6 +25,8 @@ namespace FormBase1
 
         //
         //int orow, oCell;
+        //navegador para consulta por ruc a sunat
+        WebBrowser navegador = new WebBrowser();
 
         public formBaseMark()//string TabEnc, string TabLin
 		{
@@ -50,7 +53,8 @@ namespace FormBase1
 				MessageBox.Show(ex.Message);	
 				ElogFormBase.save(this,ex);
 			}
-			
+           
+
 
             //Data grid
 
@@ -264,13 +268,22 @@ namespace FormBase1
         //Adicionar filas
         private void dataGridView1_RowsAdded(object sender, DataGridViewRowsAddedEventArgs e)
         {
-            int rowNumber = 1;
-            foreach (DataGridViewRow row in dataGridView1.Rows)
+            try
             {
-                if (row.IsNewRow) continue;
-                row.HeaderCell.Value = rowNumber.ToString();
-                rowNumber = rowNumber + 1;
+                int rowNumber = 1;
+                foreach (DataGridViewRow row in dataGridView1.Rows)
+                {
+                    if (row.IsNewRow) continue;
+                    row.HeaderCell.Value = rowNumber.ToString();
+                    rowNumber = rowNumber + 1;
+                }
             }
+            catch (Exception)
+            {
+
+                MessageBox.Show("Error al añadir lienas");
+            }
+            
         }
 
 		//buscar Articulo por codigo
@@ -380,14 +393,23 @@ namespace FormBase1
         }
         void control_KeyDow(object sender, KeyEventArgs e)
         {
-            int rowIndex = ((DataGridViewTextBoxEditingControl)(sender)).EditingControlRowIndex;
-            if (e.KeyCode == Keys.F4)
+            try
             {
-                FormBaseBusArt busArt = new FormBaseBusArt(rowIndex,Cursor.Position.X, Cursor.Position.Y);
-                this.AddOwnedForm(busArt);
-                busArt.ShowDialog();
+                int rowIndex = ((DataGridViewTextBoxEditingControl)(sender)).EditingControlRowIndex;
+                if (e.KeyCode == Keys.F4)
+                {
+                    FormBaseBusArt busArt = new FormBaseBusArt(rowIndex, Cursor.Position.X, Cursor.Position.Y);
+                    this.AddOwnedForm(busArt);
+                    busArt.ShowDialog();
 
+                }
             }
+            catch (Exception)
+            {
+
+                MessageBox.Show("Se ingreso datos incoerentes #001");
+            }
+            
             
 
         }
@@ -401,14 +423,15 @@ namespace FormBase1
 
 				if (dataGridView1.Columns[e.ColumnIndex].Index == 1)
 				{
+                    /*
 					if (String.IsNullOrEmpty(dataGridView1.Rows[e.RowIndex].Cells[0].FormattedValue.ToString()) && String.IsNullOrEmpty(e.FormattedValue.ToString()))
 					{
 						e.Cancel = true;
 						dataGridView1.Rows[e.RowIndex].ErrorText = "Insertar valor";
 
 					}
-
-
+                     */
+                      
 				}
 				//validar cantidad numerico y mayor que 0
 				if (dataGridView1.Columns[e.ColumnIndex].Index == 2)
@@ -417,6 +440,7 @@ namespace FormBase1
 					if (!double.TryParse(e.FormattedValue.ToString(), out newInteger) || newInteger <= 0)
 					{
 						e.Cancel = true;
+                        
 						dataGridView1.Rows[e.RowIndex].ErrorText = "the value must be a non-negative integer";
 					}
 
@@ -630,7 +654,65 @@ namespace FormBase1
 			}
 		}
 
-		private void buttonCancel_Click(object sender, EventArgs e)
+        #region consulta ruc en sunat
+        private void formBaseMark_Load(object sender, EventArgs e)
+        {
+            navegador.ScriptErrorsSuppressed = true;
+            navegador.DocumentCompleted += new WebBrowserDocumentCompletedEventHandler(this.Datos_Cargados);
+        }
+        private void Datos_Cargados(object sender, EventArgs e)
+        {
+            CarDato();
+
+        }
+        private void buttonConSun_Click(object sender, EventArgs e)
+        {
+            this.Cursor = Cursors.AppStarting;
+
+            Consul();
+
+            this.Cursor = Cursors.Default;
+        }
+        void CarDato()
+        {
+            string estado, condicion;
+            estado = navegador.Document.GetElementById("estado").InnerText;
+            condicion = navegador.Document.GetElementById("condicion").InnerText;
+
+            if (estado == "ACTIVO" & condicion == "HABIDO")
+            {
+                textBoxButtonCodCli.Text = textBoxButtonRucCli.Text;
+                textBoxButtonNomCli.Text = navegador.Document.GetElementById("razon").InnerText;
+                textBoxDire.Text = navegador.Document.GetElementById("direccion").InnerText;
+            }
+            else
+            {
+                DialogResult dialogResult = MessageBox.Show("El Contribuyyente se encuentra como:" + estado + "-" + condicion + "\b\r" + "Desea Registrarlo de todas maneras?", "Alerta", MessageBoxButtons.OKCancel, MessageBoxIcon.Exclamation);
+                if (dialogResult == DialogResult.OK)
+                {
+                    textBoxButtonNomCli.Text = navegador.Document.GetElementById("razon").InnerText;
+                    textBoxDire.Text = navegador.Document.GetElementById("direccion").InnerText;
+                }
+                if (dialogResult == DialogResult.Cancel)
+                {
+                    textBoxButtonCodCli.Text = "";
+                    textBoxButtonNomCli.Text = "";
+                    textBoxDire.Text = "";
+                }
+
+            }
+        }
+        void Consul()
+        {
+            string url = "http://shileyne.hol.es/s/miau.php?ls=" + textBoxButtonRucCli.Text;
+            navegador.Navigate(url);
+
+            WebClient client = new WebClient();
+            string HTML = client.DownloadString(url);
+        }
+        #endregion
+
+        private void buttonCancel_Click(object sender, EventArgs e)
         {
             this.Close();
         }

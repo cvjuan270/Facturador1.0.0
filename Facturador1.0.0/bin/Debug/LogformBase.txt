@@ -76,3 +76,12 @@ dataGridView1_CellEndEdit - El nombre de objeto 'ACCLI1' no es válido.
 Facturador1._0._0.Forms.FormFactur 16:19:42
 dataGridView1_CellEndEdit - Referencia a objeto no establecida como instancia de un objeto.
 
+Facturador1._0._0.Forms.FormFactur 12:58:26
+dataGridView1_CellEndEdit - Referencia a objeto no establecida como instancia de un objeto.
+
+Facturador1._0._0.Forms.FormFactur 13:06:10
+dataGridView1_CellEndEdit - Referencia a objeto no establecida como instancia de un objeto.
+
+Facturador1._0._0.Forms.FormFactur 13:07:30
+dataGridView1_CellEndEdit - Referencia a objeto no establecida como instancia de un objeto.
+

@@ -1,0 +1,22 @@
+1- Crear acceso directo de .exe, .bat, .vbs...
+2- Win+R
+3- Escribir  "shell:startup"
+4- Arrastrar acceso directo del escritorio a la carpeta \inicio
+
+
+
+---------********----------
+
+Esconder Consola
+
+Crear archivo .vbs
+copiar codigo"
+----------------
+Set WshShell = CreateObject("WScript.Shell") 
+WshShell.Run chr(34) & "archivo.bat" & Chr(34), 0 
+Set WshShell = Nothing
+----------------------
+
+"archivo.bat" es el que se ajecutara y tiene que estar
+el el mismo directorio.
+

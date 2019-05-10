@@ -38,7 +38,7 @@ namespace Facturador1._0._0 {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("http://RBSEGURIDAD-PC:9000/")]
+        [global::System.Configuration.DefaultSettingValueAttribute("http://localhost:9000/")]
         public string RutaSFS {
             get {
                 return ((string)(this["RutaSFS"]));
@@ -50,7 +50,7 @@ namespace Facturador1._0._0 {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("\\\\RBSEGURIDAD-PC\\SFS_v1.2\\sunat_archivos\\sfs\\DATA\\")]
+        [global::System.Configuration.DefaultSettingValueAttribute("d:\\\\SFS_v1.2\\sunat_archivos\\sfs\\DATA\\")]
         public string DirectorioDATA {
             get {
                 return ((string)(this["DirectorioDATA"]));
@@ -86,7 +86,7 @@ namespace Facturador1._0._0 {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("\\\\RBSEGURIDAD-PC\\SFS_v1.2\\sunat_archivos\\sfs\\REPO\\")]
+        [global::System.Configuration.DefaultSettingValueAttribute("d:\\\\SFS_v1.2\\sunat_archivos\\sfs\\REPO\\")]
         public string DirectorioREPO {
             get {
                 return ((string)(this["DirectorioREPO"]));

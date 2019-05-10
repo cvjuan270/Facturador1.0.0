@@ -6,10 +6,10 @@
       <Value Profile="(Default)">data source = WIN-N0KOJNSL9KV; initial catalog = FACTURADOR01; user id = sa; password = Dv123456789</Value>
     </Setting>
     <Setting Name="RutaSFS" Type="System.String" Scope="User">
-      <Value Profile="(Default)">http://RBSEGURIDAD-PC:9000/</Value>
+      <Value Profile="(Default)">http://localhost:9000/</Value>
     </Setting>
     <Setting Name="DirectorioDATA" Type="System.String" Scope="User">
-      <Value Profile="(Default)">\\RBSEGURIDAD-PC\SFS_v1.2\sunat_archivos\sfs\DATA\</Value>
+      <Value Profile="(Default)">d:\\SFS_v1.2\sunat_archivos\sfs\DATA\</Value>
     </Setting>
     <Setting Name="RUC" Type="System.String" Scope="User">
       <Value Profile="(Default)">20558326256</Value>
@@ -18,7 +18,7 @@
       <Value Profile="(Default)">F001</Value>
     </Setting>
     <Setting Name="DirectorioREPO" Type="System.String" Scope="User">
-      <Value Profile="(Default)">\\RBSEGURIDAD-PC\SFS_v1.2\sunat_archivos\sfs\REPO\</Value>
+      <Value Profile="(Default)">d:\\SFS_v1.2\sunat_archivos\sfs\REPO\</Value>
     </Setting>
     <Setting Name="NombreIMPRESORA" Type="System.String" Scope="User">
       <Value Profile="(Default)">Microsoft Print to PDF</Value>

@@ -52,26 +52,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Facturador1.0.0.exe" size="109520">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Facturador1.0.0.exe" size="108984">
       <assemblyIdentity name="Facturador1.0.0" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>xRl1lj9ZiLkufaPCEdX1ee9yUZw=</dsig:DigestValue>
+        <dsig:DigestValue>Zswvg3HfxX75rPrH3rrj2gs30WU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FormBase1.dll" size="55808">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FormBase1.dll" size="57344">
       <assemblyIdentity name="FormBase1" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>DozUZLKvTEGS/GjcNEUhTOBh1To=</dsig:DigestValue>
+        <dsig:DigestValue>o32BARqJ7AwZ7u5z8cwS5eHGPzY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -87,13 +87,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="Facturador1.0.0.exe.config" size="2132">
+  <file name="Facturador1.0.0.exe.config" size="2101">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>bgDea6Jyq8oBH50mo7M0F+wbvyM=</dsig:DigestValue>
+      <dsig:DigestValue>HzFxIzYvcrxq/eEQlHBHA7mS210=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
